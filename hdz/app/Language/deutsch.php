@@ -1,0 +1,111 @@
+<?php
+/**
+ * @package HelpDeskZ
+ * @website: http://www.helpdeskz.com
+ * @community: http://community.helpdeskz.com
+ * @author Timo Hagemann
+ * @since 1.0.0
+ */
+$LANG['HOME'] = 'Start';
+$LANG['MY_TICKETS'] = 'Deine Tickets';
+$LANG['SUBMIT_A_TICKET'] = 'Ein Ticket übermitteln';
+$LANG['KNOWLEDGEBASE'] = 'Wissensdatenbank';
+$LANG['NEWS'] = 'Neuigkeiten';
+$LANG['ACCOUNT_LOGIN'] = 'Benutzerlogin';
+$LANG['LASTEST_UPDATES'] = 'Aktuelle Updates';
+$LANG['YOUR_EMAIL_ADDRESS'] = 'Deine E-Mail Addresse';
+$LANG['YOUR_PASSWORD'] = 'Ihr Password';
+$LANG['REMEMBER_ME'] = 'An mich erinnern';
+$LANG['LOST_PASSWORD'] = 'Password vergessen';
+$LANG['LOGIN'] = 'Login';
+$LANG['ACCOUNT'] = 'Benutzerkonto';
+$LANG['MY_PROFILE'] = 'Dein Profil';
+$LANG['PREFERENCES'] = 'Einstellungen';
+$LANG['CHANGE_PASSWORD'] = 'Password ändern';
+$LANG['LOGOUT'] = 'Ausloggen';
+$LANG['VIEW_ALL_NEWS'] = 'Alle Neuigkeiten anzeigen';
+$LANG['POSTED_BY_ON'] = 'Geschreiben von %author% am %date%';
+$LANG['OLDEST_POSTS'] = 'Älteste Einträge';
+$LANG['NEWEST_POSTS'] = 'Neuste Einträge';
+$LANG['MOST_POPULAR_ARTICLES'] = 'Beliebsteste Artikel';
+$LANG['NEWEST_ARTICLES'] = 'Neuste Artikel';
+$LANG['MORE_TOPICS'] = 'More Topics';
+$LANG['FILE_NOT_FOUND'] = 'Datei nicht gefunden.';
+$LANG['SEARCH'] = 'Suche';
+$LANG['SEARCH_IN_KNOWLEDGEBASE'] = 'Suche in Wissensdatenbank';
+$LANG['SEARCH_RESULTS'] = 'Suchergebnisse';
+$LANG['SEARCH_NOT_FOUND'] = 'Wir konnten nichts finden, was für Deine Suche relevant ist.';
+$LANG['ENTER_EMAIL_RECOVER_PASSWORD'] = 'Bitte gib Deine registrierte E-Mail-Adresse ein und klicke auf Absenden. Du erhältst in Kürze eine E-Mail mit einem Link zum Zurücksetzen Deines Passworts.';
+$LANG['ACCOUNT_INFORMATION'] = 'Benutzerkontoinformation';
+$LANG['EMAIL'] = 'E-mail';
+$LANG['CAPTCHA_VERIFICATION'] = 'CAPTCHA Verifikation';
+$LANG['ENTER_TEXT_CAPTCHA'] = 'Bitte gib den Text, den Du im Bild siehst, in das Textfeld unten ein (wir verwenden dies, um automatisierte Einreichungen zu verhindern).';
+$LANG['SUBMIT'] = 'Senden';
+$LANG['CANT_FIND_SOLUTION_SUBMIT_TICKET'] = 'Wenn Du keine Lösung für Dein Problem finden kannst, kannst Du ein Ticket einreichen, indem Du unten die entsprechende Abteilung auswählst.';
+$LANG['SELECT_DEPARTMENT_TICKET'] = 'Bitte wähle eine Abteilung aus, in der Dein Ticket eingereicht werden soll.';
+$LANG['CSRF_ERROR'] = 'Wir sind auf ein Problem gestoßen (cross-site request forgery entdeckt); bitte versuchen Sie es erneut.';
+$LANG['DEPARTMENTS'] = 'Abteilungen';
+$LANG['NEXT'] = 'Weiter';
+$LANG['INVALID_EMAIL_OR_PASSWORD'] = 'Ungültige E-Mail-Adresse oder Passwort.';
+$LANG['YOUR_TICKET_DETAILS'] = 'Deine Ticketdetails';
+$LANG['ENTER_TICKET_DETAILS'] = 'Gib Deine Ticketdetails unten ein. Wenn Du ein Problem meldest, denke bitte daran, so viele relevante Informationen wie möglich anzugeben.';
+$LANG['GENERAL_INFORMATION'] = 'Generelle Information';
+$LANG['FULL_NAME'] = 'Vollständiger Name';
+$LANG['PRIORITY'] = 'Priorität';
+$LANG['YOUR_MESSAGE'] = 'Deine Nachricht';
+$LANG['SUBJECT'] = 'Betreff';
+$LANG['ATTACHMENTS'] = 'Anhänge';
+$LANG['INVALID_CAPTCHA_CODE'] = 'FEHLER: Ungültiger Verifizierungsbildcode';
+$LANG['INVALID_EMAIL_ADDRESS'] = 'FEHLER: Bitte gib eine gültige E-Mail-Adresse an';
+$LANG['ONE_REQUIRED_FIELD_EMPTY'] = 'Eines der erforderlichen Pflichtfelder ist leer';
+$LANG['ERROR_UPLOADING_A_FILE'] = 'Es gab einen Fehler beim Hochladen einer Datei.';
+$LANG['INVALID_FILE_EXTENSION'] = 'Ungültige Dateiendung.';
+$LANG['FILE_NOT_ALLOWED'] = 'Datei ist nicht zulässig.';
+$LANG['FILE_IS_BIG'] = 'Datei ist zu groß. Maximalgröße ist %size%';
+$LANG['REQUEST_RECEIVED'] = 'Deine Anfrage ist eingegangen';
+$LANG['REQUEST_RECEIVED_RESPONSE'] = 'Wir haben Deine Anfrage erhalten und unser Team wird sich in Kürze mit Dir in Verbindung setzen. Du kannst Dich beim Helpdesk anmelden, um den Status Deiner Anfrage zu überprüfen, oder Deine E-Mails auf weitere Aktualisierungen überprüfen.';
+$LANG['TICKET_ID'] = 'Ticket ID';
+
+$LANG['WE_SENT_YOUR_NEW_PASSWORD'] = 'Wir haben eine E-Mail mit einem neuen Passwort an die angegebene Adresse geschickt.';
+$LANG['EMAIL_WAS_NOT_FOUND'] = 'Email wurde nicht gefunden.';
+$LANG['SEARCH_TICKET_ID'] = 'Ticket ID suchen';
+$LANG['VIEW_TICKETS'] = 'Tickets anzeigen';
+$LANG['VIEW_TICKETS_DESCRIPTION'] = 'Im Folgenden sind die Tickets aufgelistet, die Du in der Vergangenheit eingereicht hast. Klicke auf den Betreff eines Tickets, um das Ticket und dessen Verlauf anzuzeigen.';
+$LANG['LAST_UPDATE'] = 'Letzte Aktualisierung';
+$LANG['DEPARTMENT'] = 'Abteilung';
+$LANG['STATUS'] = 'Status';
+$LANG['VIEW_TICKET_ID'] = 'Ticket #%id% anzeigen';
+$LANG['CREATED'] = 'Erstellt';
+$LANG['UPDATED'] = 'Aktualisiert';
+$LANG['TICKET_IS_CLOSED'] = 'Ticket ist derzeit geschlossen.';
+$LANG['ADD_REPLY'] = 'Antwort hinzufügen';
+$LANG['YOUR_REPLY_SENT'] = 'Deine Antwort auf dieses Ticket wurde erfolgreich übermittelt.';
+$LANG['USER'] = 'Benutzer';
+$LANG['STAFF'] = 'Personal';
+$LANG['POSTED_ON'] = 'Geschrieben am';
+$LANG['TICKET_NOT_FOUND_OR_PERMISSION'] = 'Es tut uns leid, wir konnten das von Dir angeforderte Ticket nicht finden oder Du hast keine Erlaubnis, es einzusehen.';
+$LANG['TICKET_NOT_FOUND'] = 'Ticket nicht gefunden.';
+$LANG['YOUR_PROFILE_UPDATED'] = 'Dein Profil wurde aktualisiert.';
+$LANG['UPDATE'] = 'Aktualisierung';
+$LANG['YOUR_PREFERENCES_SAVED'] = 'Deine Einstellungen wurden gespeichert.';
+$LANG['GENERAL_OPTIONS'] = 'Generelle Optionen';
+$LANG['TIMEZONE'] = 'Zeitzone';
+$LANG['DEFAULT_TIMEZONE'] = 'Standard Zeitzoneone';
+$LANG['PASSWORD_UPDATED'] = 'Passwort aktualisiert.';
+$LANG['PASSWORD_DETAILS'] = 'Passwort Details';
+$LANG['EXISTING_PASSWORD'] = 'Vorhandenes Passwort';
+$LANG['NEW_PASSWORD'] = 'Neues Password';
+$LANG['CONFIRM'] = 'Bestätigen';
+$LANG['EXISTING_PASSWORD_INCORRECT'] = 'Dein bestehendes Passwort ist falsch.';
+$LANG['NEW_PASSWORDS_DO_NOT_MATCH'] = 'Die neu eingegebenen Passwörter stimmen nicht überein.';
+$LANG['EMAIL_ASSOCIATED_OTHER_ACCOUNT'] = 'Die E-Mail-Adresse ist bereits mit einem anderen Konto verknüpft.';
+$LANG['WE_ARE_PERFORMING_MAINTENANCE'] = 'Wir führen derzeit planmäßige Wartungsarbeiten durch. Entschuldigen Sie bitte die Unannehmlichkeiten.';
+$LANG['MAINTENANCE_MODE'] = 'Wartungsmodus';
+$LANG['PAGE_NOT_FOUND'] = 'Seite nicht gefunden - 404';
+$LANG['CLICK_TO_BACK_HELPDESK'] = 'Klicken Sie hier, um zur Startseite des Helpdesks zurückzukehren';
+$LANG['OPEN'] = 'Offen';
+$LANG['AWAITING_REPLY'] = 'Antwort erwartet';
+$LANG['IN_PROGRESS'] = 'In Bearbeitung';
+$LANG['ANSWERED'] = 'Beantwortet';
+$LANG['CLOSED'] = 'Erledigt';
+?>
