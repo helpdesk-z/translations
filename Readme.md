@@ -15,9 +15,16 @@ An example would be "en" for English, and "en-US" for the variations appropriate
 
 These translations are intended for use with HelpDeskZ 2.x.
 
+
 ## Contributing
 
 We are looking for contributors to make a translation of HelpDeskZ v2, credits will be displayed here.
+
+| Locale | Language             | As of** | Github User          | Maintainer
+| ------ | -------------------- | ------- | -------------------- | --------------------
+| en     | English              | 2.x     | N/A                  | HelpDeskZ Team
+| es     | Spanish              | 2.x     | N/A                  | HelpDeskZ Team
+| pl     | Polish               | 2.0.1   | [shepard153][pl]     | shepard153
 
 ## License
 
