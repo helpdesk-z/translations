@@ -26,6 +26,8 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 | es     | Spanish              | 2.x     | N/A                  | HelpDeskZ Team
 | pl     | Polish               | 2.0.1   | [shepard153][pl]     | shepard153
 
+[pl]: https://github.com/shepard153
+
 ## License
 
 These translations are licensed under the [LICENSE](LICENSE).
