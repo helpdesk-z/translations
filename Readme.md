@@ -20,12 +20,14 @@ These translations are intended for use with HelpDeskZ 2.x.
 
 We are looking for contributors to make a translation of HelpDeskZ v2, credits will be displayed here.
 
-| Locale | Language             | As of** | Github User          | Maintainer
+| Locale | Language             | As of** | Maintainer           | Website
 | ------ | -------------------- | ------- | -------------------- | --------------------
-| en     | English              | 2.x     | N/A                  | HelpDeskZ Team
-| es     | Spanish              | 2.x     | N/A                  | HelpDeskZ Team
-| pl     | Polish               | 2.0.1   | [shepard153][pl]     | shepard153
+| en     | English              | 2.x     | HelpDeskZ Team       | [HelpDeskZ.com][site]
+| es     | Spanish              | 2.0.1   | Andres Mendoza       | [Twitter][es]
+| pl     | Polish               | 2.0.1   | shepard153           | [GitHub][pl]
 
+[site]: https://www.helpdeskz.com
+[es]: https://twitter.com/ajmsDev
 [pl]: https://github.com/shepard153
 
 ## License
