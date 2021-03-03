@@ -23,7 +23,7 @@ return [
     'installLocked' => 'Penginstal telah dikunci untuk alasan keamanan, untuk membuat penginstalan baru, silakan hapus berkas /hdz/writable/cache/install.config',
     'isLocked' => 'Penginstal saat ini terkunci, silakan hapus \'install.config\' dari folder cache untuk melanjutkan',
     'goToStaffPanel' => 'Buka panel staf',
-    'goToHelpDesk' => 'Buka halaman muka HelpDesk',
+    'goToHelpDesk' => 'Buka halaman muka HelpDeskZ',
     'error' => [
         'phpVersion' => 'Dibutuhkan versi php [b]%req%+[/b], Anda menggunakan versi: [b]%used%[/b].',
         'mysql' => 'MySQL tidak berjalan/dinonaktifkan.',
