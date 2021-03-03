@@ -1,0 +1,43 @@
+<?php
+return [
+    'welcome' => 'Selamat Datang!',
+    'welcomeInfo' => 'Selamat datang di HelpDeskZ v%version%, silahkan pilih tindakan yang ingin anda lakukan:',
+    'installSite' => 'Instal salinan baru',
+    'upgradeSite' => 'Upgrade HelpDeskZ',
+    'installWizard' => 'Installasi dengan panduan',
+    'installInfo1' => 'Selamat datang di proses instalasi HelpDeskZ! Ini sangat mudah dan menyenangkan. Jika Anda membutuhkan bantuan, lihat dokumentasi ReadMe
+(readme.html)',
+    'installInfo2' => 'Jika Anda memiliki ide baru atau ada keraguan pada perangkat lunak ini, silahkan kunjungi forum kami [a]forums[/a].',
+    'continue' => 'Lanjutkan',
+    'tryAgain' => 'Ulangi',
+    'someErrors' => 'Beberapa kesalahan ditemukan:',
+    'installHelpDesk' => 'Instalasi HelpDeskZ',
+    'administration' => 'Administrasi',
+    'fullName' => 'Nama Lengkap',
+    'email' => 'Alamat lengkap',
+    'username' => 'Nama pengguna',
+    'password' => 'Kata sandi',
+    'confirmPassword' => 'Konfirmasi kata sandi',
+    'complete' => 'Instalasi selesai!',
+    'completeDescr' => 'Salinan HelpDeskZ Anda telah berhasil diinstal!',
+    'installLocked' => 'Penginstal telah dikunci untuk alasan keamanan, untuk membuat penginstalan baru, silakan hapus berkas /hdz/writable/cache/install.config',
+    'isLocked' => 'Penginstal saat ini terkunci, silakan hapus \'install.config\' dari folder cache untuk melanjutkan',
+    'goToStaffPanel' => 'Buka panel staf',
+    'goToHelpDesk' => 'Buka halaman muka HelpDeskZ',
+    'error' => [
+        'phpVersion' => 'Dibutuhkan versi php [b]%req%+[/b], Anda menggunakan versi: [b]%used%[/b].',
+        'mysql' => 'MySQL tidak berjalan/dinonaktifkan.',
+        'writable' => 'Folder [b]%folder%[/b] tidak dapat ditulis.',
+        'file' => 'Berkas %file% tidak ditemukan.',
+        'fullName' => 'Masukan nama lengkap Anda, hanya boleh berisi karakter alfanumerik dan spasi.',
+        'email' => 'Masukan alamat email yang valid.',
+        'username' => 'Masukkan nama pengguna yang valid, hanya boleh berisi karakter alfanumerik, garis bawah, dan tanda hubung.',
+        'password' => 'Masukkan kata sandi yang valid, panjangnya minimal 6 karakter.',
+        'passwordConfirmation' => 'Kata sandi tidak sama.'
+    ],
+    'upgradeWizard' => 'Upgrade dengan panduan',
+    'upgradeInfo' => 'HelpDeskZ Anda akan diperbarui ke versi %version%, klik tombol di bawah untuk memulai proses ini.',
+    'upgradeStop' => 'Anda menggunakan HelpDeskZ versi terbaru, Anda tidak perlu melakukan upgrade.',
+    'upgradeNoVersion' => 'Kami tidak mendeteksi adanya instalasi HelpDeskZ.',
+    'upgradeFromVersion' => 'Anda mencoba melakukan upgrade dari versi v%old% ke v%new%'
+];
