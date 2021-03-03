@@ -234,7 +234,7 @@ return [
         'allowedFiles' => 'Berkas yang diperbolehkan',
         'browse' => 'Cari',
         'chooseFile' => 'Pilih berkas',
-        'quote' => 'Quote',
+        'quote' => 'Kutip',
         'staff' => 'Staf',
         'uploadImage' => 'Unggah gambar',
         'total' => 'Total',
