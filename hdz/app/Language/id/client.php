@@ -19,8 +19,8 @@ return [
         'title' => 'Masuk ke %site_name%',
         'button' => 'Sign In',
         'forgotPassword' => 'Lupa kata sandi',
-        'forgotDescription' => 'Silakan masukkan alamat email Anda yang terdaftar dan klik Kirim. Anda akan segera menerima email dengan link untuk mereset password anda.',
-        'passwordSent' => 'Kami telah mengirimkan email dengan password baru ke alamat yang diberikan',
+        'forgotDescription' => 'Silakan masukkan alamat email Anda yang terdaftar dan klik Kirim. Anda akan segera menerima email dengan link untuk mereset kata sandi anda.',
+        'passwordSent' => 'Kami telah mengirimkan email dengan kata sandi baru ke alamat yang diberikan',
     ],
     'submitTicket' => [
         'title' => 'Kirimkan permintaan dukungan',
