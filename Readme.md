@@ -25,11 +25,13 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 | de     | German               | 2.0     | Luis Ferreira        | [Tivendo.com][de]
 | en     | English              | 2.x     | HelpDeskZ Team       | [HelpDeskZ.com][site]
 | es     | Spanish              | 2.0.1   | Andres Mendoza       | [Twitter][es]
-| pl     | Polish               | 2.0.1   | Kamil Kośmider       | [GitHub][pl]
+| id     | Indonesian           | 2.0.1   | Andres Mendoza       | [Twitter][es]
+| pl     | Polish               | 2.0.1   | rhiel.id             | [GitHub][id]
 
 [site]: https://www.helpdeskz.com
 [de]: https://tivendo.com
 [es]: https://twitter.com/ajmsDev
+[id]: https://github.com/rhiel-id
 [pl]: https://github.com/shepard153
 
 ## License
