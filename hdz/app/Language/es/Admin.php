@@ -32,7 +32,15 @@ return [
         'departmentUpdated' => 'El departamento ha sido actualizado.',
         'editDepartment' => 'Editar departamento',
         'newDepartment' => 'Nuevo departmento',
-        'departmentCreated' => 'El nuevo departamento ha sido creado.'
+        'departmentCreated' => 'El nuevo departamento ha sido creado.',
+        'notes' => 'Notas',
+        'notesRemoveConfirmation' => '¿Realmente deseas eliminar esta nota?',
+        'invalidRequest' => 'Petición inválida.',
+        'noteRemoved' => 'La nota ha sido eliminada.',
+        'noteUpdated' => 'La nota ha sido actualizada.',
+        'enterNote' => 'Ingresa tu nota.',
+        'notesSaved' => 'Tu nota ha sido agregada.',
+        'addNote' => 'Agregar nota'
     ],
     'account' => [
         'menu' => 'Cuenta',
