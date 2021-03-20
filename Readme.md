@@ -28,6 +28,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 | id     | Indonesian           | 2.0.1   | rhiel.id             | [GitHub][id]
 | pl     | Polish               | 2.0.1   | Kamil Kośmider       | [GitHub][pl]
 | se     | Swedish              | 2.0.1   | Roger Vetterberg     | [GitHub][se]
+| ru     | Russian              | 2.0.12  | Bolat                | [GitHub][ru]
 
 [site]: https://www.helpdeskz.com
 [de]: https://tivendo.com
@@ -35,6 +36,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 [id]: https://github.com/rhiel-id
 [pl]: https://github.com/shepard153
 [se]: https://github.com/rv545
+[ru]: https://github.com/balyam
 
 ## License
 
