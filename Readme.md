@@ -22,6 +22,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 
 | Locale | Language             | As of** | Maintainer           | Website
 | ------ | -------------------- | ------- | -------------------- | --------------------
+| br     | Brazilian portuguese | 2.0.2   | Claudio da Silva     | [Qzap.com.br][br]
 | de     | German               | 2.0     | Luis Ferreira        | [Tivendo.com][de]
 | en     | English              | 2.x     | HelpDeskZ Team       | [HelpDeskZ.com][site]
 | es     | Spanish              | 2.0.2   | Andres Mendoza       | [Twitter][es]
@@ -32,6 +33,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 | ru     | Russian              | 2.0.12  | Bolat                | [GitHub][ru]
 
 [site]: https://www.helpdeskz.com
+[br]: http://qzap.com.br
 [de]: https://tivendo.com
 [es]: https://twitter.com/ajmsDev
 [fr]: https://github.com/Xeros91
