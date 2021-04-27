@@ -1,0 +1,43 @@
+<?php
+return [
+    'welcome' => 'Bienvenue !',
+    'welcomeInfo' => "Bienvenue sur HelpDeskZ v%version%, veuillez sélectionner l'action que vous souhaitez effectuer :",
+    'installSite' => 'Installer',
+    'upgradeSite' => 'Mettre à niveau mon HelpDeskZ',
+    'installWizard' => "Assistant d'installation",
+    'installInfo1' => "Bienvenue dans le processus d'installation de HelpDeskZ ! Ce sera facile et amusant. Si vous avez besoin d'aide, jetez un coup d'oeil à la documentation ReadMe
+(readme.html)",
+    'installInfo2' => "Si vous avez de nouvelles idées pour améliorer le logiciel ou si vous avez des doutes, visitez nos [a]forums[/a].",
+    'continue' => 'Continuer',
+    'tryAgain' => 'Essayez à nouveau',
+    'someErrors' => 'Des erreurs ont été trouvées :',
+    'installHelpDesk' => 'Installer HelpDeskZ',
+    'administration' => 'Administration',
+    'fullName' => 'Nom et prénom',
+    'email' => 'E-mail',
+    'username' => "Nom d'utilisateur",
+    'password' => 'Mot de passe',
+    'confirmPassword' => 'Confirmer le mot de passe',
+    'complete' => 'Installation terminée !',
+    'completeDescr' => 'HelpDeskZ a été installée avec succès !',
+    'installLocked' => "L'installateur a été verrouillé pour des raisons de sécurité, pour faire une nouvelle installation, supprimez le fichier : /hdz/writable/cache/install.config",
+    'isLocked' => "L'installateur est actuellement verrouillé, supprimez le dossier \'install.config\' du répertoire de cache pour continuer",
+    'goToStaffPanel' => "Aller au panneau d'administration",
+    'goToHelpDesk' => "Aller à la page d'accueil",
+    'error' => [
+        'phpVersion' => 'Version PHP [b]%req%+[/b] requise, vous utilisez : [b]%used%[/b].',
+        'mysql' => 'MySQL est désactivé.',
+        'writable' => "Le dossier [b]%folder%[/b] n'est pas accessible en écriture.",
+        'file' => "Le fichier %file% n'existe pas.",
+        'fullName' => 'Entrez votre nom complet, il ne peut contenir que des caractères alphanumériques et des espaces.',
+        'email' => 'Entrez une adresse e-mail valide.',
+        'username' => "Entrez un nom d'utilisateur valide, il ne peut contenir que des caractères alphanumériques, des traits de soulignement et des tirets.",
+        'password' => 'Entrez un mot de passe valide, il doit comporter au moins 6 caractères.',
+        'passwordConfirmation' => 'Les mots de passe ne correspondent pas.'
+    ],
+    'upgradeWizard' => 'Assistant de mise à niveau',
+    'upgradeInfo' => 'HelpDeskZ va être mis à jour vers la version %version%, veuillez cliquer sur le bouton ci-dessous pour commencer ce processus.',
+    'upgradeStop' => 'Vous utilisez déjà la dernière version de HelpDeskZ.',
+    'upgradeNoVersion' => "Nous n'avons pas détecté d'ancienne installation de HelpDeskZ.",
+    'upgradeFromVersion' => 'Vous essayez de passer de v%old% à v%new%.'
+];
