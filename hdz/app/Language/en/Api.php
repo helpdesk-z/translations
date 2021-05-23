@@ -10,7 +10,7 @@ return [
     'generateToken' => 'Generate new API token',
     'permissions' => 'API permissions',
     'successCreation' => 'API has been successfully created.',
-    'successUpdate' => 'Api has been successfully updated.',
+    'successUpdate' => 'API has been successfully updated.',
     'removeConfirm' => 'Do you really want to remove this API?',
     'apiRemoved' => 'API was removed.',
     'userCreated' => 'User account was created.',
