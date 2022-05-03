@@ -31,6 +31,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 | pl     | Polish               | 2.0.1   | Kamil Kośmider       | [GitHub][pl]
 | se     | Swedish              | 2.0.1   | Roger Vetterberg     | [GitHub][se]
 | ru     | Russian              | 2.0.12  | Bolat                | [GitHub][ru]
+| fi     | Finnish              | 2.0.3   | LocalghostFI         | [GitHub][fi]
 
 [site]: https://www.helpdeskz.com
 [br]: http://qzap.com.br
@@ -41,6 +42,7 @@ We are looking for contributors to make a translation of HelpDeskZ v2, credits w
 [pl]: https://github.com/shepard153
 [se]: https://github.com/rv545
 [ru]: https://github.com/balyam
+[fi]: https://github.com/LocalghostFI
 
 ## License
 
