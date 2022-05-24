@@ -350,7 +350,7 @@ return [
         'departmentNotExist' => 'Valittua osastoa ei ole olemassa.'
     ],
     'twoFactor' => [
-        'title' => 'Kaksitekijäinen todennus',
+        'title' => 'Kaksivaiheinen todennus',
          'info' => 'Suojaa tilisi korkean suojan sisäänkirjautumisella.',
          'downloadApp' => ' Lataa sovellus Androidille tai %1%iPhone%0% ja %2%iPad%0%',
          'secretKey' => 'Salainen avain',
