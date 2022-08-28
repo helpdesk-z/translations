@@ -30,7 +30,7 @@ return [
         'selectDepartment' => 'Se não conseguir encontrar uma solução para o seu problema, você pode enviar um ticket selecionando o departamento apropriado abaixo.',
         'generalInformation' => 'Informações Gerais',
         'requestReceived' => 'O seu pedido foi enviada.',
-        'requestReceivedDescription' => 'Recebemos o seu pedido e a nossa equipe entrará em contato consigo em breve. Você pode fazer login no helpdesk para rever o estado do seu pedido ou verificar o seu e-mail para obter mais atualizações.',
+        'requestReceivedDescription' => 'Recebemos o seu pedido e a nossa equipe entrará em contato consigo em breve. Você pode fazer login no helpdesk para rever o status do seu pedido ou verificar o seu e-mail para obter mais atualizações.',
     ],
     'viewTickets' => [
         'title' => 'Meus tickets',
@@ -68,7 +68,7 @@ return [
         'browse' => 'Navegar',
         'chooseFile' => 'Escolher ficheiro',
         'lastUpdate' => 'Última atualização',
-        'status' => 'Estado',
+        'status' => 'Status',
         'addReply' => 'Adicionar resposta',
         'goBack' => 'Voltar',
         'staff' => 'Pessoal',
